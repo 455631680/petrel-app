@@ -32,8 +32,18 @@ function App() {
   return (
     <StyledApp>
       <AppContainer>
+        <div>Petrel</div>
         <FlexBoxCol>
           <FlexBoxRow>
+          <Button>
+             NFT mint
+          </Button>
+          <Button>
+             NFT transfer
+          </Button>
+          <Button>
+             NFT transfer
+          </Button>
             <TonConnectButton />
             <Button>
               {network
