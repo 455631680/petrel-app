@@ -1,0 +1,36 @@
+{
+  "name": "Market Makers #3",
+  "description": "NFT from the Market Makers collection: Dive into thrilling trading tournaments at Storm.tg, engage as a vibrant community member, win this NFT, and unlock exclusive bonuses for NFT holders! ",
+  "image": "https://static.storm.tg/nft/3.png",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bright Green"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Golden Rings"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Cyberpunk Horns"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Diamond Hands Sweatshirt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Daring Turquoise"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black"
+    }
+  ]
+}

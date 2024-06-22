@@ -1,0 +1,36 @@
+{
+  "name": "Market Makers #7",
+  "description": "NFT from the Market Makers collection: Dive into thrilling trading tournaments at Storm.tg, engage as a vibrant community member, win this NFT, and unlock exclusive bonuses for NFT holders! ",
+  "image": "https://static.storm.tg/nft/7.png",
+  "edition": 7,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Deep Green"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Gold Nose Ring"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Storm Black Jockey"
+    },
+    {
+      "trait_type": "Appearance",
+      "value": "Citrine Horns"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Blue Jacket"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Cheerful Crimson"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyan"
+    }
+  ]
+}
